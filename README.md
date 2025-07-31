@@ -73,7 +73,7 @@ Please select an operation:
 ## 📬 Contact
 
 Made with ❤️ by [Ahmed Amir](https://github.com/ahmed20amir23)  
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/ahmed-ameer-3b62292a4)  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-ameer-3b62292a4/)  
 Or view the repo: [CRUD_Operations_C#](https://github.com/ahmed20amir23/ahmed20amir23-Crud_Operations_Csharp/tree/main)
 
 ---
